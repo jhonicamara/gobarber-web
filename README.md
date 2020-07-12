@@ -20,7 +20,7 @@
 
 ## 💇🏻‍♂️ Sobre o projeto
 
-Esta aplicação em React JS possibilita que os Barbeiros vejam todos os agendamentos e também possibilita a edição do perfil do barbeiro.
+Esta aplicação em React JS possibilita que os Barbeiros vejam todos os agendamentos e também a edição do perfil.
 
 
 Veja também o **backend**, clique aqui: [GoBarber API](https://github.com/jhonicamara/gobarber-api)<br />

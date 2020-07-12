@@ -38,6 +38,10 @@ Tecnologias que utilizei para desenvolver este projeto em React JS
 - [Styled Components](https://styled-components.com/)
 - [Polished](https://github.com/styled-components/polished)
 - [Axios](https://github.com/axios/axios)
+- [Redux](https://redux.js.org/)
+- [Redux Saga](https://redux-saga.js.org/)
+- [Redux Persist](https://github.com/rt2zz/redux-persist)
+- [Immer](https://github.com/immerjs/immer)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
@@ -46,7 +50,7 @@ Tecnologias que utilizei para desenvolver este projeto em React JS
 
 ### Requisitos
 
-- Ter a [API do GoBarber](https://github.com/jhonicamara/gobarber-api) executando
+- Ter a [API do GoBarber](https://github.com/jhonicamara/gobarber-api) rodando
 
 **Faça o clone do projeto e acesse a pasta**
 

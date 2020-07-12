@@ -42,6 +42,7 @@ Tecnologias que utilizei para desenvolver este projeto em React JS
 - [Redux Saga](https://redux-saga.js.org/)
 - [Redux Persist](https://github.com/rt2zz/redux-persist)
 - [Immer](https://github.com/immerjs/immer)
+- [Reactotron](https://github.com/infinitered/reactotron)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)

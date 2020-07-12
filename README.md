@@ -28,7 +28,7 @@ Veja também o **mobile**, clique aqui: [GoBarber Mobile](https://github.com/jho
 
 ## 🚀 Tecnologias
 
-Tecnologias que utilizei para desenvolver este projeto em React JS
+Tecnologias utilizadas neste projeto React JS
 
 - [ReactJS](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/)
